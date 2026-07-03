@@ -1,4 +1,4 @@
-# 💻 Competitive Programming - Codeforces
+# Competitive Programming - Codeforces
 
 A collection of my **Codeforces** solutions in **C++**.
 
@@ -6,9 +6,9 @@ This repository helps me track my progress in competitive programming while impr
 
 ---
 
-## 📌 Repository Structure
+## Repository Structure
 
-## 📂 Solved Problems
+## Solved Problems
 
 | Problem No. | Problem Name | Difficulty |
 |-------------|--------------|------------|
@@ -26,13 +26,13 @@ This repository helps me track my progress in competitive programming while impr
 
 ---
 
-## 🛠️ Language
+## Language
 
 - C++
 
 ---
 
-## 🚀 Goal
+## Goal
 
 - Solve problems consistently.
 - Strengthen data structures and algorithms.
@@ -41,18 +41,18 @@ This repository helps me track my progress in competitive programming while impr
 
 ---
 
-## 📈 Progress
+## Progress
 
-- ✅ Problems Solved: **11**
-- ⭐ Current Focus: **800-rated Problems**
+-  Problems Solved: **11**
+-  Current Focus: **800-rated Problems**
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 - **GitHub:** https://github.com/sonakshii-singh
 - **LinkedIn:** https://www.linkedin.com/in/sonakshi-singh-4aa7bb380
 
 ---
 
-⭐ If you find this repository helpful, consider giving it a star.
+ If you find this repository helpful, consider giving it a star <3.
