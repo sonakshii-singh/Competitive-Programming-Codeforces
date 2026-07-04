@@ -23,6 +23,7 @@ This repository helps me track my progress in competitive programming while impr
 | 281A | Word Capitalization | 800 |
 | 339A | Helpful Maths | 800 |
 | 732A | Buy a Shovel | 800 |
+| 1154A | Restoring Three Numbers | 800 |
 
 ---
 
@@ -43,7 +44,7 @@ This repository helps me track my progress in competitive programming while impr
 
 ## Progress
 
--  Problems Solved: **11**
+-  Problems Solved: **12**
 -  Current Focus: **800-rated Problems**
 
 ---
