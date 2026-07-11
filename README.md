@@ -10,6 +10,8 @@ This repository helps me track my progress in competitive programming while impr
 
 ## Solved Problems
 
+## Solved Problems
+
 | Problem No. | Problem Name | Difficulty |
 |-------------|--------------|------------|
 | 1A | Theatre Square | 1000 |
@@ -21,9 +23,16 @@ This repository helps me track my progress in competitive programming while impr
 | 231A | Team | 800 |
 | 236A | Boy or Girl | 800 |
 | 281A | Word Capitalization | 800 |
+| 282A | Bit++ | 800 |
 | 339A | Helpful Maths | 800 |
+| 546A | Soldier and Bananas | 800 |
+| 617A | Elephant | 800 |
+| 705A | Hulk | 800 |
 | 732A | Buy a Shovel | 800 |
 | 1154A | Restoring Three Numbers | 800 |
+| 59A | Word | 800 |
+| 110A | Nearly Lucky Number | 800 |
+| 155A | I Love Uesrnames | 800 |
 
 ---
 
@@ -44,7 +53,7 @@ This repository helps me track my progress in competitive programming while impr
 
 ## Progress
 
--  Problems Solved: **12**
+-  Problems Solved: **19**
 -  Current Focus: **800-rated Problems**
 
 ---
