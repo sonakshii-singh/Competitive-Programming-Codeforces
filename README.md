@@ -33,6 +33,8 @@ This repository helps me track my progress in competitive programming while impr
 | 59A | Word | 800 |
 | 110A | Nearly Lucky Number | 800 |
 | 155A | I Love Uesrnames | 800 |
+| 1512A | Spy Detected! | 800 |
+| 1433A | Boring Apartment | 800 |
 
 ---
 
